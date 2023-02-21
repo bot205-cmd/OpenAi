@@ -1,4 +1,7 @@
 {
-	"keyopenai": "YOUR_APIKEY",
+	"keyopenai": "git clone https://github.com/KiZakiXD/OpenAi
+cd OpenAi
+yarn
+node .",
 	"autoAI": true
 }
